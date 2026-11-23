@@ -1,0 +1,26 @@
+h1 {
+    font-size: xx-large;
+    color: rgb(86, 5, 86);
+}
+
+h2{
+    font-size: 19px;
+    color:rgb(121, 34, 134);
+}
+
+body {
+    background-color: lavender;
+}
+
+footer {
+    font-size: 10px;
+    text-align: center;
+}
+
+ul{
+    font-size: 13px;
+}
+
+p {
+    font-size: 13px;
+}
